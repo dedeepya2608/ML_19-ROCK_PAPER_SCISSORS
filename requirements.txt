@@ -1,9 +1,0 @@
-numpy -1.20.1 
-matplotlib.pyplot -3.3.4
-cv2 - 4.5.3.56
-os-latest version
-tensorflow -2.3.0
-from tensorflow  keras
-from keras.applications.vgg16  VGG16
-from keras.layers  Input,Lambda,Dense,Flatten
-from keras.models  Model
